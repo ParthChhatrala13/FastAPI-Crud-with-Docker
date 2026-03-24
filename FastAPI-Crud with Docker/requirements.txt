@@ -1,4 +1,0 @@
-fastApi
-uvicorn
-pydantic
-fastapi[standred]
